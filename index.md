@@ -1,7 +1,3 @@
-<>  ---
-<>  layout: home
-<>  author_profile: false
-<> # ---
 title: "Splash Page"
 layout: splash
 permalink: /home/
