@@ -5,8 +5,8 @@ title: "Bærekraftsfornkning for alle "
 layout: splash
 permalink: /
 header:
-  #overlay_color: "#000"
-  #overlay_filter: "0.9"
+  # overlay_color: "#000"
+  # overlay_filter: "0.9"
   overlay_image: /images/Alle_ikoner_RGB_Bokmål.png
   #actions:
   #  - label: "Download"
