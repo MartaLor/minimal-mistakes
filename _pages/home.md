@@ -3,7 +3,7 @@
 # https://www.janmeppe.com/blog/how-to-add-splash-to-minimal-mistakes/
 title: "Splash Page"
 layout: splash
-permalink: /home/
+permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
