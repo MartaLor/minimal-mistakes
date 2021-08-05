@@ -7,7 +7,7 @@ permalink: /
 header:
   #overlay_color: "#000"
   #overlay_filter: "0.5"
-  overlay_image: /images/Alle_ikoner_RGB_Bokmål.pdf
+  overlay_image: /images/Alle ikoner RGB_Bokmål.pdf
   #actions:
   #  - label: "Download"
   #    url: "#test-link"
