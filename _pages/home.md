@@ -8,7 +8,7 @@ hidden: true
 header:
   # overlay_color: "#000"
   # overlay_filter: "0.9"
-  overlay_image: /images/Alle_ikoner_RGB_Bokmål.png
+  overlay_image: /images/Alle_ikoner_RGB_Bokmål2.png
   # actions:
   #  - label: "Download"
   #    url: "#test-link"
