@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "default"  # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "Minimal Mistakes"
-title_separator          : "-"
-subtitle                 : "A Jekyll theme"
+# title_separator          :  
+subtitle                 : " "
 # title                    : "Brekratfsforskning for alle"
 # title_separator          : "-"
 # subtitle                 : "en transparent gjenfinningstjeneste"
