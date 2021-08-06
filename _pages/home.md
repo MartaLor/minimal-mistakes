@@ -8,11 +8,11 @@ hidden: true
 header:
   # overlay_color: "#000"
   # overlay_filter: "0.9"
-  overlay_image: /images/Alle_ikoner_RGB_Bokmål3.png
+  image: /images/Alle_ikoner_RGB_Bokmål2.png
   # actions:
   #  - label: "Download"
   #    url: "#test-link"
-excerpt: " - en transparent gjenfinningstjeneste."
+# excerpt: " - en transparent gjenfinningstjeneste."
 # intro: 
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id # sollicitudin. Centered with `type="center"`'
 
