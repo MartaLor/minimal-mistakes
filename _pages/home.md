@@ -4,11 +4,12 @@
 title: "Bærekraftsfornkning for alle "
 layout: splash
 permalink: /
+hidden: true
 header:
   # overlay_color: "#000"
   # overlay_filter: "0.9"
   overlay_image: /images/Alle_ikoner_RGB_Bokmål.png
-  #actions:
+  # actions:
   #  - label: "Download"
   #    url: "#test-link"
 excerpt: " - en transparent gjenfinningstjeneste."
@@ -23,6 +24,6 @@ feature_row_center:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-# {% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row_center" type="center" %}
