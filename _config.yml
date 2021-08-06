@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default"  # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Brekratfsforskning for alle"
 title_separator          : "-"
-subtitle                 : "Brekratfsforskning for alle - en transparent gjenfinningstjeneste"
+subtitle                 : "en transparent gjenfinningstjeneste"
 name                     : "ML"
 description              : "An amazing website."
 url                      : # https://martalor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
