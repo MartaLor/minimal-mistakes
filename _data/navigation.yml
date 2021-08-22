@@ -2,7 +2,7 @@
 main:
   - title: "english"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
- - title: "testing"
+  - title: "testing"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "about us"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
@@ -12,7 +12,4 @@ main:
     children:
       - title: "Configuration"
         url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-      # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    
