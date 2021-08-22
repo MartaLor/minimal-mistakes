@@ -8,7 +8,7 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "SDGs"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+  - title: children
     children:
       - title: "Configuration"
         url: /docs/configuration/
