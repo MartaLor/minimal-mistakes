@@ -12,4 +12,7 @@ main:
     children:
       - title: "Configuration"
         url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+      - title: "Configuration222"
+        url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    
     
