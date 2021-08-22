@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: english
+  - title: "english"
     url: en/
+ - title: "testing"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "about us"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "SDGs"
