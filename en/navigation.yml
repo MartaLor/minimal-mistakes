@@ -1,1 +1,18 @@
-
+# main links
+main:
+  - title: "norwegian"
+    url: /
+  - title: "testing"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "about us"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "SDGs"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: children
+    children:
+      - title: "Configuration"
+        url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+      - title: "Configuration222"
+        url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    
+    
